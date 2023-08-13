@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Cahyo</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 👨‍💻 Project my Portfolio  available at [https://adityacahyo4552.github.io/Aditya.github.io/](https://adityacahyo4552.github.io/Aditya.github.io/)
+- 👨‍💻 Project my Portfolio  available at [https://adityacahyo4552.github.io/aditya/](https://adityacahyo4552.github.io/aditya/)
 
 - 📫 How to reach me **cahyo4552@gmail.com**
 
